@@ -13,7 +13,7 @@ export default function Home() {
             New
           </span>{" "}
           <span className="text-sm font-medium">
-            CodeCraft is out! See what's new
+            {`CodeCraft is out! See what's new`}
           </span>
           <svg
             className="ml-2 w-5 h-5"
